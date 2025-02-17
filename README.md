@@ -1,0 +1,1 @@
+This repository demonstrates a common error in DApps: insufficient error handling when checking for wallet connection. The `bug.js` file contains the erroneous code, while `bugSolution.js` provides a corrected version with improved error handling and user feedback.  This is crucial for providing a smooth and informative user experience.
